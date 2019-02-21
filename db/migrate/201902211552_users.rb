@@ -1,1 +1,3 @@
-class Users < ActiveRecord
+class Users < ActiveRecord::Migration
+    
+end
