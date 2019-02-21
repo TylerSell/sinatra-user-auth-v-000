@@ -1,4 +1,4 @@
 class Users < ActiveRecord::Migration
   def change
-    create
+    create_table 
 end
